@@ -1,0 +1,2 @@
+[18-Mar-2019 16:02:58 UTC] База данных WordPress возвратила ошибку Unknown column 'wp_' in 'field list' в ответ на запрос SELECT wp_
+[19-Mar-2019 12:52:44 UTC] PHP Fatal error:  Cannot redeclare theme_register_nav_menu() (previously declared in /home2/coelix/marina.coelix.com/wp-content/themes/marinka/functions.php:164) in /home2/coelix/marina.coelix.com/wp-content/themes/marinka/functions.php on line 169
